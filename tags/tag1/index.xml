@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on Chris的技术随笔</title>
+    <link>https://ChrisRanger.github.io/tags/tag1/</link>
+    <description>Recent content in tag1 on Chris的技术随笔</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 19:47:49 +0800</lastBuildDate>
+    
+	<atom:link href="https://ChrisRanger.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://ChrisRanger.github.io/2020/04/test/</link>
+      <pubDate>Thu, 23 Apr 2020 19:47:49 +0800</pubDate>
+      
+      <guid>https://ChrisRanger.github.io/2020/04/test/</guid>
+      <description>&lt;h1 id=&#34;缩略显示的梗概这里把注释删去写成文章的简介或者梗概在首页时候可以只显示梗概&#34;&gt;缩略显示的梗概，这里把注释删去，写成文章的简介或者梗概，在首页时候可以只显示梗概&lt;/h1&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
